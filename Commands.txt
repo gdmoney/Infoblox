@@ -1,51 +1,26 @@
 set network
-
 set dhcp-client on/off
-
 set maintenancemode
-
 set temp_license
 
 
-
 show network
-
 show interface
-
 show log
-
 show version
-
 show status
-
 show hardware_status
-
 show uptime
-
 show license
-
 show disk
-
 show config dhcp|dns|radius
-
 show dns stats|cache
-
 show dhcp_dddns_updates
 
-
 show log /10.255.0.137/
-
 show log /bandon/
-
 show log /DECLINE/
-
 show log /istening/
-
 show log /orrect/
-
 show log follow
-
 show log debug follow
-
-
-
