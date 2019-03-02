@@ -3,7 +3,6 @@ set dhcp-client on/off
 set maintenancemode
 set temp_license
 
-
 show network
 show interface
 show log
